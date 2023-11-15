@@ -119,7 +119,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text(
-                          'Pomodoros',
+                          'Pomodorasdfos',
                           style: TextStyle(
                             fontSize: 20,
                             fontWeight: FontWeight.w600,
